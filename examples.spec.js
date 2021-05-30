@@ -49,4 +49,10 @@ describe('Banking API', () => {
     console.log(transaction)
   });
 
+  it('Get user transactions', async() => {
+
+    const transactions = await client.getTransactions()
+    console.log(transactions)
+  });
+
 });
