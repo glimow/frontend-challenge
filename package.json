@@ -1,0 +1,16 @@
+{
+  "name": "frontend-challenge",
+  "version": "1.0.0",
+  "description": "Escape Frontend Challenge Package",
+  "main": "client.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Escape Technologies SAS",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "jest": "^27.0.3",
+    "node-localstorage": "^2.1.6"
+  }
+}
