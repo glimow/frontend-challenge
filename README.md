@@ -52,6 +52,12 @@ Inside the repository. It will launch the `examples.spec.js` file which contain 
 
 To use it in your project, you can simply copy paste the client script inside your repository. be sure to install axios as a dependency.
 
+You can test the api using the fake user we created:
+identifier: `fake@escape.tech`
+password: `fakepassword`
+
 ## Notes
 
 The banking API is far from being perfect, it is actually quite vulnerable to security flaws. That's on purpose: we also use it for cybersecurity recruitements challenges, in which candidates have to find all it's security vulnerabilities.
+
+Good luck!
